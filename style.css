@@ -1,0 +1,49 @@
+.navbar {
+    background-color: black;
+}
+
+.navbar a {
+    color: white;
+    text-align: center;
+    padding: 20px 15px;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    background-color: gray;
+    color: yellow;
+}
+
+.box {
+    display: flex;
+    align-items: flex-start;
+    border-style: solid;
+    padding: 10px;
+    margin: 0px;
+    background-color: navy;
+    justify-content: space-between;
+}
+
+.info {
+    text-align: center;
+    color: white;
+
+}
+
+.box2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+
+.skills {
+    text-align: left;
+}
+
+.box3 {
+    text-align: center;
+}
+
